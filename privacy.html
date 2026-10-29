@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>privacy | Rollin</title><style>body{font-family:system-ui,sans-serif;line-height:1.8;margin:auto;padding:20px;max-width:800px;color:#242424;background:#fff}a{color:#a91e59;overflow-wrap:anywhere}nav{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:24px}section{scroll-margin-top:16px;border-top:1px solid #ddd;padding-top:16px;margin-top:32px}h1{font-size:1.7rem}h2{font-size:1.2rem}p{overflow-wrap:anywhere}</style></head><body><nav aria-label="Pages"><a href="index.html">Rollin</a><a href="terms.html">利用規約 / Terms</a><a href="privacy.html">プライバシー / Privacy</a><a href="support.html">サポート / Support</a></nav><nav aria-label="Language"><a href="#ja" lang="ja">日本語</a><a href="#en" lang="en">English</a></nav><main><section id="ja" lang="ja"><h1>Rollin プライバシーポリシー</h1>
+<p>施行日: 2026年10月29日</p>
+<h2>1. 運営者と取得する情報
+難波隼士（Hayato Namba）はRollinの提供に際し、メールアドレス、認証情報、ユーザーID、表示名、グループ名・所属、ゴール・チャレンジ・オファーの内容、達成日時・リアクション、アバターのアイテム・装備・報酬・進捗、アプリ内通知、通報理由・対象ID・ブロック情報を取り扱います。購入利用時は購入商品、取引識別子、購読期限・イベント・購入権限を取り扱います。通知を有効化するとExpo Pushトークン、OS、ユーザーID、更新日時を保存します。委託先はサービス運用・安全管理に伴うIPアドレス、アクセスログ、端末・SDK診断情報を処理する場合があります。
+端末には認証セッション、言語や通知の設定を保存します。位置情報、連絡先一覧、写真、音声の取得は要求しません。投稿に健康情報等の機微な情報や第三者の個人情報を入力しないでください。</h2>
+<h2>2. 利用目的・共有範囲
+認証、グループ・ゴール等の機能提供、同期、アバター・報酬管理、通知登録、購入・復元・権限確認、不正防止、安全対策、障害対応、お問い合わせ対応のため利用します。投稿・表示名・進捗等はアプリの参加・閲覧権限に応じて他の利用者に表示されます。個人情報を販売しません。広告配信・広告追跡は行わず、ATT許可を要求しません。固定スポンサー表示は追跡広告ではありません。委託先による必要な処理、利用者による共有、本人の同意、法令に基づく開示や権利・安全の保護に必要な場合を除き、第三者に個人情報を提供しません。</h2>
+<h2>3. 委託先・国外での処理
+Supabaseを認証・データベースホスティング・リアルタイム同期に利用します。RevenueCatとApple App Storeを購読・アプリ内購入・復元・権限管理に利用し、Supabase UUIDをRevenueCatのApp User IDとして送信します。運営者はカード番号等の決済カード情報を受領・保存しません。
+通知登録にはExpo Push Serviceを使用します。現版はトークン登録・解除のみで、Push配信側は未実装です。配信を行う場合はExpoおよびApple APNs／Google FCMを経由します。通知の許可は有効化時に求めます。OSの通知設定とアプリ内のPush登録解除で停止できます（登録解除はアカウントの全端末が対象）。通知カテゴリ・静音時間の設定は現版では端末保存のみです。
+これらの事業者や再委託先により、日本国外（米国等）で情報が保存・処理される場合があり、現地の個人情報保護制度は日本と異なる場合があります。必要な安全管理・委託先管理を行い、各事業者のプライバシーポリシーも適用されます。
+Supabase: https://supabase.com/privacy
+RevenueCat: https://www.revenuecat.com/privacy/
+Apple: https://www.apple.com/legal/privacy/
+Expo: https://expo.dev/privacy</h2>
+<h2>4. 保存期間とアカウント削除
+サービス利用中は機能提供に必要な期間保存し、その後は法令遵守、安全対策、紛争対応に必要な範囲・期間に限って保持し、不要になった情報を削除または匿名化します。
+「設定」→「アカウント」→「アカウントを削除」で警告を確認し、DELETEと入力して確定できます。delete_own_accountが正常に完了すると、Authアカウントと外部キーで紐づくプロフィール、所有グループ、所属、ゴール、装備、購読、通知、本人に紐づく通報・ブロック等のDBデータが直ちに連鎖削除されます。共有していた所有グループも削除対象です。他の利用者宛て通知の送信者IDや先着特典枠のユーザーIDは空になり、記録自体は残る場合があります。webhookイベントの重複防止記録は残ります。このRPCが全ての通報を匿名化して残すわけではありません。
+Supabaseのバックアップには事業者の保持サイクルに従い限られた期間データが残る場合があります。RevenueCat・Appleの顧客・取引記録、事業者ログはこの操作では自動削除されず、各事業者の方針・法令に従います。別途の安全対応記録や匿名化した不正対策記録も必要な範囲で保持する場合があります。削除・保持についてのお問い合わせはメールで受け付けます。アカウント削除はAppleの購読解約にはなりません。</h2>
+<h2>5. 利用者の権利・未成年者
+登録情報はアプリ内で変更できます。開示、訂正、削除、利用停止、国外処理や委託先に関する情報の請求はメールでご連絡ください。必要な本人確認後、適用法に従い対応します。アプリにアクセスできない場合の削除相談も受け付けます。パスワードやカード番号は送らないでください。未成年の方は保護者の同意を得て利用してください。保護者からのご相談も同じ窓口で受け付けます。</h2>
+<h2>6. 安全管理・変更・連絡先
+アクセス制御や暗号化通信等により情報を保護し、必要な担当者にアクセスを限定しますが、完全な安全性を保証するものではありません。本ポリシーの重要な変更は施行日とともにアプリまたは公開サイトで告知し、必要な場合は同意を求めます。
+運営者: 難波隼士（Hayato Namba）
+メール: rollin1.partner@gmail.com
+追加の連絡先情報はメールでの請求に応じて提供します。</h2></section>
+<section id="en" lang="en"><h1>Rollin Privacy Policy</h1>
+<p>Effective date: October 29, 2026</p>
+<h2>1. Operator and information collected
+難波隼士 (Hayato Namba) processes email addresses, authentication information, user IDs, display names, group names and memberships, goal, challenge and offer content, achievement times, reactions, avatar items, equipment, rewards and progress, in-app notifications, report reasons and target IDs, and blocks to provide Rollin. Purchases involve products, transaction identifiers, subscription expiry dates, events and entitlements. Enabling notifications stores an Expo Push token, OS, user ID and update time. Providers may process IP addresses, access logs, device information and SDK diagnostics for operations and security.
+Authentication sessions, language and notification settings are stored on your device. We do not request location, contact lists, photos or audio. Do not enter sensitive information such as health information or other people's personal information in content.</h2>
+<h2>2. Purposes and sharing
+We use information for authentication, group and goal features, synchronization, avatars and rewards, notification registration, purchases, restoration and entitlement verification, fraud prevention, safety, troubleshooting and support. Content, display names and progress are visible to other users according to participation and viewing permissions. We do not sell personal information, serve ads, track users for advertising or request App Tracking Transparency (ATT) permission. Fixed sponsor attribution is not tracking advertising. We do not disclose personal information to third parties except necessary provider processing, user-directed sharing, consent, legal requirements or protection of rights and safety.</h2>
+<h2>3. Providers and international processing
+Supabase provides authentication, database hosting and realtime synchronization. RevenueCat and Apple App Store provide subscriptions, in-app purchases, restoration and entitlement management. We send your Supabase UUID to RevenueCat as your App User ID. The operator does not receive or store payment card details.
+Notification registration uses Expo Push Service. This version only registers and removes tokens; push delivery has not been implemented. Delivery, if provided, goes through Expo and Apple APNs or Google FCM. Permission is requested when you enable notifications. You can stop them through OS notification settings and in-app push deregistration (deregistration covers all devices on the account). Notification category and quiet-hour preferences are currently saved only on the device.
+These providers and their subprocessors may store or process information outside Japan, including in the United States, where privacy laws may differ. We take necessary security and provider management measures. The providers' own privacy policies also apply.
+Supabase: https://supabase.com/privacy
+RevenueCat: https://www.revenuecat.com/privacy/
+Apple: https://www.apple.com/legal/privacy/
+Expo: https://expo.dev/privacy</h2>
+<h2>4. Retention and account deletion
+We retain information as needed to provide the service during use. Afterward, we retain only what is necessary and for as long as necessary for legal compliance, safety or disputes, and delete or anonymize information no longer needed.
+Go to Settings → Account → Delete account, review the warning, type DELETE and confirm. When delete_own_account completes successfully, the Auth account and associated database data linked by cascading foreign keys are immediately deleted, including the profile, owned groups, memberships, goals, equipment, subscriptions, notifications, and reports and blocks linked to that user. Owned groups shared with others are also deleted. Sender IDs in notifications addressed to other users and user IDs in early-adopter allocation records may be cleared while those records remain. Webhook event deduplication records remain. This RPC does not anonymize and retain all reports.
+Supabase backups may retain data for a limited period under the provider's retention cycle. RevenueCat and Apple customer and transaction records and provider logs are not automatically deleted by this action and follow their own policies and applicable law. Separate safety records or anonymized abuse-prevention records may also be retained as necessary. Email us about deletion and retention. Account deletion does not cancel an Apple subscription.</h2>
+<h2>5. Your rights and minors
+You can edit registration details in the app. Email requests for access, correction, deletion, restriction of use or information about international processing and providers. We respond under applicable law after necessary identity verification. You may also contact us about deletion if you cannot access the app. Do not send passwords or card details. Minors must obtain a parent or guardian's consent. Guardians may contact the same address.</h2>
+<h2>6. Security, changes and contact
+We protect information through access controls and encrypted communications and limit access to necessary personnel, without guaranteeing absolute security. We announce material changes and their effective date in the app or on the public site and obtain consent where needed.
+Operator: 難波隼士 (Hayato Namba)
+Email: rollin1.partner@gmail.com
+Further contact information is provided upon request by email.</h2></section></main></body></html>
