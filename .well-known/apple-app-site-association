@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8WRNZTCFTU.com.rollindevelop.Rollin",
+        "paths": ["/join/*"]
+      }
+    ]
+  }
+}
