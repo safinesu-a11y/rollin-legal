@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /desktop
+Disallow: /mobile
+
+Sitemap: https://rollin-pair.com/sitemap.xml
