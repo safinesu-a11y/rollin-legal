@@ -9,6 +9,11 @@
     window.location.replace(`/join/#token=${encodeURIComponent(match[1])}`);
     return;
   }
+  const userAgent = navigator.userAgent;
+  const googlePlay = document.getElementById('google-play');
+  const appStore = document.getElementById('app-store');
+  if (googlePlay) googlePlay.hidden = !/Android/i.test(userAgent) && /iPhone|iPad|iPod/i.test(userAgent);
+  if (appStore) appStore.hidden = /Android/i.test(userAgent);
   const button = document.getElementById('open-app');
   if (!button) return;
   const token = new URLSearchParams(window.location.hash.slice(1)).get('token');
