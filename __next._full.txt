@@ -3,18 +3,18 @@
 3:I[4581,[],""]
 4:"static/chunks/app/not-found-e7865bf0856ca697.js"
 5:I[8500,["345","$4"],""]
-7:"static/chunks/936-838abe074d70028c.js"
-8:"static/chunks/111-a9206c327669f7bb.js"
-9:"static/chunks/199-b0bd16f455789185.js"
-a:"static/chunks/602-c26a6c8994e8bef3.js"
-b:"static/chunks/app/page-8b70b9125bbd12e2.js"
-c:I[3178,["936","$7","111","$8","199","$9","602","$a","974","$b"],"ResponsiveSite"]
-d:I[9866,["936","$7","111","$8","199","$9","602","$a","974","$b"],"Header"]
-e:I[8860,["936","$7","111","$8","199","$9","602","$a","974","$b"],"ProductMotion"]
-f:I[3970,["936","$7","111","$8","199","$9","602","$a","974","$b"],"PhoneMockup"]
-10:I[3970,["936","$7","111","$8","199","$9","602","$a","974","$b"],"TogetherCard"]
-11:I[8437,["936","$7","111","$8","199","$9","602","$a","974","$b"],"Image"]
-12:I[222,["936","$7","111","$8","199","$9","602","$a","974","$b"],"UseCases"]
+7:"static/chunks/129-6ccf275170b1ea9b.js"
+8:"static/chunks/111-3038787dd4ed7524.js"
+9:"static/chunks/199-bf967a971c1a7ef8.js"
+a:"static/chunks/602-6fd53f65ddbbe821.js"
+b:"static/chunks/app/page-4dbf3b8d135d2250.js"
+c:I[3178,["129","$7","111","$8","199","$9","602","$a","974","$b"],"ResponsiveSite"]
+d:I[9866,["129","$7","111","$8","199","$9","602","$a","974","$b"],"Header"]
+e:I[8860,["129","$7","111","$8","199","$9","602","$a","974","$b"],"ProductMotion"]
+f:I[2398,["129","$7","111","$8","199","$9","602","$a","974","$b"],"PhoneMockup"]
+10:I[2398,["129","$7","111","$8","199","$9","602","$a","974","$b"],"TogetherCard"]
+11:I[8437,["129","$7","111","$8","199","$9","602","$a","974","$b"],"Image"]
+12:I[222,["129","$7","111","$8","199","$9","602","$a","974","$b"],"UseCases"]
 22:"ViewportBoundary"
 23:I[484,[],"$22"]
 25:"MetadataBoundary"
@@ -22,17 +22,17 @@ f:I[3970,["936","$7","111","$8","199","$9","602","$a","974","$b"],"PhoneMockup"]
 27:"$Sreact.suspense"
 29:I[7123,[],"default",1]
 :HL["/_next/static/media/e6df576ec67d906e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/1e064de90684cfc7.css","style"]
-:HL["/_next/static/css/c923febf20c13569.css","style"]
+:HL["/_next/static/css/6f9a9b8bb5f4d498.css","style"]
+:HL["/_next/static/css/88a8195909c8d3a1.css","style"]
 6:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lc",null,{"desktop":["$","div",null,{"className":"DesktopSite_site__65NzC","children":[["$","$Ld",null,{}],["$","main",null,{"id":"main","children":[["$","section",null,{"className":"hero","aria-labelledby":"hero-title","children":[["$","div",null,{"className":"hero-copy","children":[["$","div",null,{"className":"eyebrow","children":[["$","span",null,{"className":"live-dot"}]," KEEP ROLLING. TOGETHER."]}],["$","h1",null,{"id":"hero-title","children":["果てなき夢も、",["$","br",null,{}],["$","span",null,{"children":"君となら。"}]]}],["$","p",null,{"className":"hero-description","children":"大切な人と目標を決めて、応援し合いながら、\n一緒に達成するアプリ。"}],["$","div",null,{"className":"hero-actions","children":[["$","a",null,{"className":"button","href":"#start","children":["Start Rolling ",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":19,"height":19,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-up-right","aria-hidden":"true","children":[["$","path","1tivn9",{"d":"M7 7h10v10"}],["$","path","1vkiza",{"d":"M7 17 17 7"}],"$undefined"]}]]}],["$","a",null,{"className":"text-link","href":"#use-cases","children":["Rollinを知る ",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":15,"height":15,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-down","aria-hidden":"true","children":[["$","path","s699le",{"d":"M12 5v14"}],["$","path","1idqje",{"d":"m19 12-7 7-7-7"}],"$undefined"]}]]}]]}],["$","a",null,{"className":"coming-soon","href":"https://apps.apple.com/jp/app/rollin/id6829111522","target":"_blank","rel":"noopener noreferrer","children":[["$","span",null,{"className":"apple-mark","children":"●"}]," App Store"," ",["$","span",null,{"children":"でダウンロード"}]]}],["$","div",null,{"className":"hero-note","children":[["$","span",null,{"className":"two-dots","children":[["$","i",null,{}],["$","i",null,{}]]}],["$","p",null,{"children":["One goal. One promise.",["$","br",null,{}],["$","strong",null,{"children":"もっと遠くへ。大切な人と。"}]]}]]}]]}],["$","$Le",null,{"className":"hero-visual","children":[["$","div",null,{"className":"orbit orbit-one"}],["$","div",null,{"className":"orbit orbit-two"}],["$","span",null,{"className":"visual-caption","children":"YOUR GOALS. OUR JOURNEY."}],["$","$Lf",null,{"screen":"groups","className":"hero-phone-one"}],["$","$Lf",null,{"screen":"together","className":"hero-phone-two"}],["$","$L10",null,{}],["$","span",null,{"className":"visual-bottom","children":"現行UIの再現・データは表示例"}]]}],["$","div",null,{"className":"hero-bottom","children":[["$","span",null,{"children":"A NEW WAY TO KEEP GOING."}],["$","a",null,{"href":"#use-cases","children":["SCROLL TO EXPLORE ",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":13,"height":13,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-down","aria-hidden":"true","children":[["$","path","s699le",{"d":"M12 5v14"}],["$","path","1idqje",{"d":"m19 12-7 7-7-7"}],"$undefined"]}]]}],["$","span",null,{"children":"01 / KEEP ROLLING"}]]}]]}],["$","div",null,{"className":"partner-strip","children":[["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"FOUNDING PARTNERS"}],["$","small",null,{"children":"ともに、可能性を広げる。"}]]}],["$","div",null,{"className":"partner-logo-list","children":[["$","div","Safi",{"children":["$","$L11",null,{"src":"/safi_flower21.webp","width":72,"height":72,"className":"safi-logo","alt":"Safi"}]}]]}]]}],["$","$L12",null,{}],["$","section",null,{"className":"emotional","children":[["$","div",null,{"className":"emotional-top","children":["$L13","$L14"]}],"$L15","$L16","$L17"]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}],"$L1e"]}],"mobile":"$L1f"}],["$L20"],"$L21"]}],"p":false,"v":null}}]]
-0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1e064de90684cfc7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"className":"__variable_62ce98","children":[["$","a",null,{"href":"#main","className":"skip-link","children":"本文へスキップ"}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","style":{"minHeight":"100vh","display":"grid","placeContent":"center","padding":"2rem","textAlign":"center","gap":"1rem"},"children":[["$","p",null,{"style":{"fontSize":"2rem","fontWeight":900,"letterSpacing":"-0.06em"},"children":["Rollin",["$","span",null,{"style":{"color":"var(--pink)"},"children":"."}]]}],["$","h1",null,{"children":"ページが見つかりません"}],["$","p",null,{"children":"URLを確認するか、トップページに戻ってください。"}],["$","$L5",null,{"href":"/","className":"button","style":{"justifySelf":"center"},"children":"トップページに戻る"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":"$L24"}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":"$L28"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$29",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"dhNs3MwtnGuoCQCC9J-J2"}
-2a:I[2834,["936","$7","111","$8","199","$9","602","$a","974","$b"],"Reveal"]
-2b:I[8860,["936","$7","111","$8","199","$9","602","$a","974","$b"],"JourneyStep"]
-31:I[2745,["936","$7","111","$8","199","$9","602","$a","974","$b"],"AppShowcase"]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6f9a9b8bb5f4d498.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"className":"__variable_62ce98","children":[["$","a",null,{"href":"#main","className":"skip-link","children":"本文へスキップ"}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","style":{"minHeight":"100vh","display":"grid","placeContent":"center","padding":"2rem","textAlign":"center","gap":"1rem"},"children":[["$","p",null,{"style":{"fontSize":"2rem","fontWeight":900,"letterSpacing":"-0.06em"},"children":["Rollin",["$","span",null,{"style":{"color":"var(--pink)"},"children":"."}]]}],["$","h1",null,{"children":"ページが見つかりません"}],["$","p",null,{"children":"URLを確認するか、トップページに戻ってください。"}],["$","$L5",null,{"href":"/","className":"button","style":{"justifySelf":"center"},"children":"トップページに戻る"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":"$L24"}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":"$L28"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$29",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"bbT0LcJ0f0yHtUJNJK-d0"}
+2a:I[2834,["129","$7","111","$8","199","$9","602","$a","974","$b"],"Reveal"]
+2b:I[8860,["129","$7","111","$8","199","$9","602","$a","974","$b"],"JourneyStep"]
+31:I[2745,["129","$7","111","$8","199","$9","602","$a","974","$b"],"AppShowcase"]
 32:"PartnerSpotlight"
-33:I[160,["936","$7","111","$8","199","$9","602","$a","974","$b"],"$32"]
-34:I[5384,["936","$7","111","$8","199","$9","602","$a","974","$b"],"Footer"]
-35:I[2199,["936","$7","111","$8","199","$9","602","$a","974","$b"],"MobileSite"]
+33:I[160,["129","$7","111","$8","199","$9","602","$a","974","$b"],"$32"]
+34:I[5384,["129","$7","111","$8","199","$9","602","$a","974","$b"],"Footer"]
+35:I[2199,["129","$7","111","$8","199","$9","602","$a","974","$b"],"MobileSite"]
 36:I[484,[],"OutletBoundary"]
 13:["$","span",null,{"children":"THE POWER OF US."}]
 14:["$","span",null,{"children":"ROLLIN PHILOSOPHY ↗"}]
@@ -47,7 +47,7 @@ f:I[3970,["936","$7","111","$8","199","$9","602","$a","974","$b"],"PhoneMockup"]
 1d:["$","section",null,{"id":"contact","className":"section contact","children":[["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"LET’S TALK."}],["$","h2",null,{"children":"一緒に、未来をつくろう。"}],["$","p",null,{"children":"パートナーシップ、取材、Rollinについてのお問い合わせ。"}]]}],["$","div",null,{"className":"contact-action","children":["$","a",null,{"href":"mailto:rollin1.partner@gmail.com?subject=Rollin%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B","className":"button","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail","aria-hidden":"true","children":[["$","path","132q7q",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"}],["$","rect","izxlao",{"x":"2","y":"4","width":"20","height":"16","rx":"2"}],"$undefined"]}]," お問い合わせ ",["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":17,"height":17,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-up-right","aria-hidden":"true","children":[["$","path","1tivn9",{"d":"M7 7h10v10"}],["$","path","1vkiza",{"d":"M7 17 17 7"}],"$undefined"]}]]}]}]]}]
 1e:["$","$L34",null,{}]
 1f:["$","$L35",null,{}]
-20:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c923febf20c13569.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+20:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/88a8195909c8d3a1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 21:["$","$L36",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@37"}]}]
 2c:["$","div",null,{"className":"app-field","children":"読書20ページ"}]
 2d:["$","span",null,{"className":"app-action","children":"Send Offer"}]
