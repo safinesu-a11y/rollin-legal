@@ -32,5 +32,5 @@ assert.ok(fs.existsSync('.nojekyll'));
 const association = JSON.parse(fs.readFileSync('.well-known/apple-app-site-association', 'utf8'));
 assert.equal(association.applinks.details[0].appID, '8WRNZTCFTU.com.rollindevelop.Rollin');
 assert.deepEqual(association.applinks.details[0].paths, ['/join/*']);
-assert.ok(fs.readFileSync('join/index.html', 'utf8').includes('https://apps.apple.com/app/id6829111522'));
+assert.ok(fs.readFileSync('join/index.html', 'utf8').includes('https://apps.apple.com/jp/app/rollin/id6829111522'));
 console.log('Invite fallback, invalid input, AASA and .nojekyll checks passed.');
